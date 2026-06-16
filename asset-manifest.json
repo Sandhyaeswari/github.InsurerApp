@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.InsurerApp/static/css/main.f54c2aca.css",
+    "main.js": "/github.InsurerApp/static/js/main.2a343451.js",
+    "static/js/453.46872273.chunk.js": "/github.InsurerApp/static/js/453.46872273.chunk.js",
+    "index.html": "/github.InsurerApp/index.html",
+    "main.f54c2aca.css.map": "/github.InsurerApp/static/css/main.f54c2aca.css.map",
+    "main.2a343451.js.map": "/github.InsurerApp/static/js/main.2a343451.js.map",
+    "453.46872273.chunk.js.map": "/github.InsurerApp/static/js/453.46872273.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f54c2aca.css",
+    "static/js/main.2a343451.js"
+  ]
+}
