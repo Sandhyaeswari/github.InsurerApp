@@ -1,7 +1,3 @@
-export const SERVER_CONFIG = {
-  SERVER_IP: "http://10.10.1.87",
-};
-
 export const INSURERS = {
   BOTSWANA_GENERAL: {
     name: "Botswana General",
